@@ -7,7 +7,7 @@ import { cn } from "~/lib/utils";
 const plans = [
   {
     name: "Starter",
-    priceHeadline: "$30",
+    priceHeadline: "$35",
     priceSubtext: "/user/month",
     action: "Start 30-day free trial",
     url: "https://app.carbon.ms",
@@ -25,7 +25,7 @@ const plans = [
     name: "Business",
     description:
       "A managed cloud-hosted version of Carbon that includes support and all advanced features",
-    priceHeadline: "$90",
+    priceHeadline: "$95",
     priceSubtext: "/user/month",
     action: "Start 30-day free trial",
     url: "https://app.carbon.ms",
