@@ -90,6 +90,11 @@ function Hero() {
         <div className="container mx-auto px-4 relative z-10">
           <div className="flex flex-col justify-start items-center gap-8">
             <DiscordButton />
+            <img
+              src="/logos/homepage-logo.png"
+              alt="Homepage Logo"
+              className="w-32 h-32 rounded-xl shadow-lg"
+            />
             <h2 className="font-display text-foreground text-balance mx-auto  max-w-5xl text-center font-medium tracking-tight leading-[115%] text-[2.7rem] sm:text-7xl lg:text-[5rem] xl:text-[7.2rem]">
               The open-source{" "}
               <span className="text-secondary">manufacturing ERP</span>
