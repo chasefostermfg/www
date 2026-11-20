@@ -624,8 +624,12 @@ msgid "I believe open-source has incredible potential because it's not just a pr
 msgstr "オープンソースは素晴らしい可能性を秘めていると信じています。なぜなら、それは単なる製品ではなく、AIとロボティクスの時代に製造業の未来を構築しようとする志を同じくする人々のコミュニティだからです。"
 
 #: app/routes/pricing.tsx:106
-msgid "Implementation and data migration"
-msgstr "実装とデータマイグレーション"
+msgid "Implementation specialist"
+msgstr "導入スペシャリスト"
+
+#: app/routes/pricing.tsx:107
+msgid "Integration and data migration support"
+msgstr "連携とデータマイグレーションのサポート"
 
 #: app/components/status-indicator.tsx:8
 msgid "Incident detected"

@@ -624,8 +624,12 @@ msgid "I believe open-source has incredible potential because it's not just a pr
 msgstr "我相信开源具有令人难以置信的潜力，因为它不仅仅是一个产品——它是一个志同道合的人们社区，致力于在人工智能和机器人时代建设制造业的未来。"
 
 #: app/routes/pricing.tsx:106
-msgid "Implementation and data migration"
-msgstr "实施和数据迁移"
+msgid "Implementation specialist"
+msgstr "实施专家"
+
+#: app/routes/pricing.tsx:107
+msgid "Integration and data migration support"
+msgstr "集成与数据迁移支持"
 
 #: app/components/status-indicator.tsx:8
 msgid "Incident detected"

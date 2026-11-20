@@ -624,8 +624,12 @@ msgid "I believe open-source has incredible potential because it's not just a pr
 msgstr "मुझे विश्वास है कि ओपन-सोर्स में असाधारण संभावना है क्योंकि यह केवल एक उत्पाद नहीं है–यह AI और रोबोटिक्स के युग में विनिर्माण का भविष्य बनाने के लिए समान विचारधारा वाले लोगों का एक समुदाय है।"
 
 #: app/routes/pricing.tsx:106
-msgid "Implementation and data migration"
-msgstr "कार्यान्वयन और डेटा माइग्रेशन"
+msgid "Implementation specialist"
+msgstr "कार्यान्वयन विशेषज्ञ"
+
+#: app/routes/pricing.tsx:107
+msgid "Integration and data migration support"
+msgstr "इंटीग्रेशन और डेटा माइग्रेशन सहायता"
 
 #: app/components/status-indicator.tsx:8
 msgid "Incident detected"
